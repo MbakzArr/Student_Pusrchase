@@ -1,8 +1,4 @@
-Here's a sample `README.md` file for your GitHub repository, incorporating the details of your project and code functionalities:
-
----
-
-# Merch and Student Management API
+# Merchandise and Student Management API
 
 This project is a Spring Boot application that manages merchandise items and student data. It includes a fully implemented REST API that allows users to perform various CRUD operations (Create, Read, Update, Delete) on both merch items and student information.
 

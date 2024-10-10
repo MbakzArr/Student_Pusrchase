@@ -75,7 +75,7 @@ This project is a Spring Boot application that manages merchandise items and stu
        ```json
        {
          "name": "T-Shirt",
-         "category": "CLOTHING",
+         "category": "T_SHIRTS",
          "price": 25.99,
          "quantity": 50
        }

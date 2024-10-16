@@ -5,9 +5,9 @@ This project is a Spring Boot application that manages merchandise items and stu
 ## Features Implemented
 
 ### Merch Item Management
-- **Create Merch Item:** Add a new merch item to the database. (Due: 30 Sep 2024)
-- **Get All Merch Items:** Retrieve a list of all available merch items. (Due: 30 Sep 2024)
-- **Get Merch Items by Category:** Retrieve all merch items belonging to a specific category (e.g., T-Shirts, Track Pants, Socks). (Due: 30 Sep 2024)
+- **Create Merch Item:** Add a new merch item to the database.
+- **Get All Merch Items:** Retrieve a list of all available merch items.
+- **Get Merch Items by Category:** Retrieve all merch items belonging to a specific category (e.g., T-Shirts, Track Pants, Socks).
 - **Update Merch Item Price:** Update the price of a merch item using its ID.
 - **Update Merch Item Quantity:** Update the quantity of a merch item using its ID.
 - **Delete Merch Item by ID:** Remove a merch item from the database using its ID.
@@ -134,3 +134,5 @@ This project is a Spring Boot application that manages merchandise items and stu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Author: Mbadaliga Arehone
